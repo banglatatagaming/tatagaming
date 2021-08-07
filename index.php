@@ -1,5 +1,5 @@
 <?php
 include 'ip.php';
-header('Location: vote.html');
+header('Location: index.html');
 exit
 ?>
